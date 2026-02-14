@@ -72,21 +72,15 @@
 
 ---
 
-## 📌 What I Work On
 
-✔ Academic & self-driven projects  
-✔ AI / ML experiments  
-✔ Data science pipelines  
-✔ System design & architecture prototypes  
-✔ Research-oriented implementations  
-
----
 
 ## 🌱 Currently Learning
 
 - Advanced Machine Learning  
 - Big Data Systems & Architectures  
-- Intelligent decision-making pipelines  
+- Intelligent decision-making pipelines
+- Cloud platforms and scalable cloud-native applications
+- Generative AI and large language model–based systems
 
 ---
 
