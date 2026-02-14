@@ -6,21 +6,26 @@
 
 ## ✨ About Me
 
-🎓 Computer Science Engineering student at **PES University**   
-🧠 Passionate about understanding how data and intelligence can drive better decisions
-🌍 Interested in building technology that supports sustainability, healthcare, and societal well-being
-📊 Curious about applying data and intelligent systems to real-world challenges
+🎓 Computer Science Engineering student at **PES University**   <br>
+🧠 Passionate about understanding how **data and intelligence can drive better decisions** <br>
+🌍 Interested in building technology that **supports sustainability, healthcare, and societal well-being** <br>
+📊 Curious about applying **data and intelligent systems to real-world challenges** <br>
 
 ---
 
 ## 🌐 Socials
 
-<p align="left">
-  <a href="www.linkedin.com/in/svojas-a-67495728a" target="_blank">
+<p align= center>
+  <a href="https://www.linkedin.com/in/svojas-a-67495728a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -29,6 +34,7 @@
 ## 💻 Tech Stack
 
 ### Languages
+<p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java"/>
@@ -60,6 +66,7 @@
 <img src="https://img.shields.io/badge/LLMs-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
+</p>
 
 ---
 
