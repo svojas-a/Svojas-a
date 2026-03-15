@@ -8,7 +8,6 @@
 
 🎓 Computer Science Engineering student at **PES University**   <br>
 🧠 Passionate about understanding how **data and intelligence can drive better decisions** <br>
-🌍 Interested in building technology that **supports sustainability, healthcare, and societal well-being** <br>
 📊 Curious about applying **data and intelligent systems to real-world challenges** <br>
 
 ---
@@ -20,11 +19,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="svojasa.cks@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/yourusername/" target="_blank">
+  <a href="https://leetcode.com/svojasa/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -33,7 +32,6 @@
 
 ## 💻 Tech Stack
 
-### Languages
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
@@ -75,7 +73,7 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning  
+- Machine Learning  
 - Big Data Systems & Architectures  
 - Intelligent decision-making pipelines
 - Cloud platforms and scalable cloud-native applications
